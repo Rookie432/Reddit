@@ -30,8 +30,8 @@ def get_prev_tickers():
 
 def get_tickers(sub, stockList):
     reddit = praw.Reddit(
-        client_id='7L2XOd2H3Dfqqg',
-        client_secret='AIbjruFzL9KfMrtb87iQoLzIvr6XvQ',
+        client_id='Gucci_gang_use_your_own',
+        client_secret='Use_your_own',
         user_agent="WSB Scraping",
     )
     weeklyTickers = {}
